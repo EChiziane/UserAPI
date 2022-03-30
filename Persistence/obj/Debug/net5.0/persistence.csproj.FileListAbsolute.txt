@@ -1,0 +1,15 @@
+C:\Chiziane\C#\UserAPI\persistence\bin\Debug\net5.0\persistence.deps.json
+C:\Chiziane\C#\UserAPI\persistence\bin\Debug\net5.0\persistence.dll
+C:\Chiziane\C#\UserAPI\persistence\bin\Debug\net5.0\ref\persistence.dll
+C:\Chiziane\C#\UserAPI\persistence\bin\Debug\net5.0\persistence.pdb
+C:\Chiziane\C#\UserAPI\persistence\bin\Debug\net5.0\domain.dll
+C:\Chiziane\C#\UserAPI\persistence\bin\Debug\net5.0\domain.pdb
+C:\Chiziane\C#\UserAPI\persistence\obj\Debug\net5.0\persistence.csproj.AssemblyReference.cache
+C:\Chiziane\C#\UserAPI\persistence\obj\Debug\net5.0\persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Chiziane\C#\UserAPI\persistence\obj\Debug\net5.0\persistence.AssemblyInfoInputs.cache
+C:\Chiziane\C#\UserAPI\persistence\obj\Debug\net5.0\persistence.AssemblyInfo.cs
+C:\Chiziane\C#\UserAPI\persistence\obj\Debug\net5.0\persistence.csproj.CoreCompileInputs.cache
+C:\Chiziane\C#\UserAPI\persistence\obj\Debug\net5.0\persistence.csproj.CopyComplete
+C:\Chiziane\C#\UserAPI\persistence\obj\Debug\net5.0\persistence.dll
+C:\Chiziane\C#\UserAPI\persistence\obj\Debug\net5.0\ref\persistence.dll
+C:\Chiziane\C#\UserAPI\persistence\obj\Debug\net5.0\persistence.pdb

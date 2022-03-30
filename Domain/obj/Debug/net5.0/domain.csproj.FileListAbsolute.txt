@@ -1,0 +1,12 @@
+C:\Chiziane\C#\UserAPI\domain\bin\Debug\net5.0\domain.deps.json
+C:\Chiziane\C#\UserAPI\domain\bin\Debug\net5.0\domain.dll
+C:\Chiziane\C#\UserAPI\domain\bin\Debug\net5.0\ref\domain.dll
+C:\Chiziane\C#\UserAPI\domain\bin\Debug\net5.0\domain.pdb
+C:\Chiziane\C#\UserAPI\domain\obj\Debug\net5.0\domain.csproj.AssemblyReference.cache
+C:\Chiziane\C#\UserAPI\domain\obj\Debug\net5.0\domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Chiziane\C#\UserAPI\domain\obj\Debug\net5.0\domain.AssemblyInfoInputs.cache
+C:\Chiziane\C#\UserAPI\domain\obj\Debug\net5.0\domain.AssemblyInfo.cs
+C:\Chiziane\C#\UserAPI\domain\obj\Debug\net5.0\domain.csproj.CoreCompileInputs.cache
+C:\Chiziane\C#\UserAPI\domain\obj\Debug\net5.0\domain.dll
+C:\Chiziane\C#\UserAPI\domain\obj\Debug\net5.0\ref\domain.dll
+C:\Chiziane\C#\UserAPI\domain\obj\Debug\net5.0\domain.pdb

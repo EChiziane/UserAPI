@@ -5,13 +5,13 @@ namespace persistence
 {
     public class DataContext:DbContext
     {
-        public DataContext(DbContextOptions<DbContext> options):base(options)
+        public DataContext(DbContextOptions<DataContext> options):base(options)
         {
             
         }
 
-       private DbSet<Employee> Employees {get;set;}
+      public DbSet<Employee> Employees {get;set;}
 
-        private DbSet<Stay> Stays { get; set; }
+        public  DbSet<Stay> Stays { get; set; }
     }
 }

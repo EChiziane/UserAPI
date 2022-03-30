@@ -2198,10 +2198,7 @@
         },
         "runtime": {
           "bin/placeholder/application.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "domain/1.0.0": {
         "type": "project",
@@ -2228,10 +2225,7 @@
         },
         "runtime": {
           "bin/placeholder/infraestruture.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "persistence/1.0.0": {
         "type": "project",
@@ -2247,10 +2241,7 @@
         },
         "runtime": {
           "bin/placeholder/persistence.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },

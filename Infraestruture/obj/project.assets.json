@@ -471,10 +471,7 @@
         },
         "runtime": {
           "bin/placeholder/application.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "domain/1.0.0": {
         "type": "project",
@@ -503,10 +500,7 @@
         },
         "runtime": {
           "bin/placeholder/persistence.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },
@@ -1508,9 +1502,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
